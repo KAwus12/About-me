@@ -54,3 +54,19 @@ Developing a platform for investors built with Node.js that aims to:
 - improve decision-making process
 
 More details coming soon.
+
+### Task Management System (PHP / Symfony)
+A web application for managing tasks and organizing work in teams. Build in Symfony
+
+## 👀 Project Access
+
+### Investor Tool (Node.js)
+The investor platform is currently under active development and is not publicly available.
+
+---
+
+### Task Management System (PHP / Symfony)
+The task management system is a backend application built with Symfony and is also not publicly available.
+
+For HR or recruitment purposes, I can provide additional details and walk through selected parts of the application upon request.
+
